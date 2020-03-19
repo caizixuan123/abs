@@ -1,0 +1,186 @@
+.icon_serch .mui-search .mui-placeholder {
+	text-align: left;
+}
+ 
+.icon_serch .mui-search .mui-placeholder span {
+	color: #ffffff;
+}
+ 
+.icon_serch .mui-search .mui-placeholder span:last-child {
+	font-size: 12px;
+}
+      
+.mui-input-row .mui-input-clear~.mui-icon-clear.mui-hidden~.mui-icon-speech{
+	font-size:20px;
+	marginn-top:1px;
+}
+      
+.icon_serch {
+	height: 50px;
+	background-color: #1b82d2;
+	box-shadow: 0 1px 6px #1b82d2;
+}
+ 
+.icon_serch input {
+	background-color: #1772b9;
+}
+
+.icon_serch .mui-search {
+	width: 75%;
+	margin-top: 2px;
+}
+ 
+.icon_add {
+	color: white;
+	float: right;
+	margin-top: -45px;
+	line-height: 50px;
+	margin-right: 10px;
+}
+ 
+.icon_add span {
+	font-size: 20px;
+}
+ 
+.icon_contact {
+	color: white;
+	float: right;
+	line-height: 50px;
+	margin-top: -45px;
+	margin-right: 10px;
+}
+ 
+.icon_contact span {
+	font-size: 20px;
+}
+ 
+.add_popover {
+	width: 150px;
+}
+ 
+#popover ul li a span{
+	display: inline-block;
+}
+ 
+ 
+.wenzi {
+	display: block;
+	font-size: 13px!important;
+	text-align: center;
+}
+ 
+.grid_background {
+	background-color: #1B82D2;
+	height: 70px;
+}
+ 
+.myicon {
+	margin-top: 3px;
+	display: block;
+	font-size: 30px;
+	color: white;
+}
+ 
+.wenzi {
+	display: block;
+	text-align: center;
+	font-size: 13px!important;
+	margin-top: 5px;
+	color: white;
+}
+ 
+.link_style {
+	text-align: center;
+}
+ 
+.grid_background_white {
+	background: #FFFFFF;
+}
+ 
+.mui-table-view-cell a span:first-child{
+	margin-top: 3px;
+	display: block;
+	font-size: 25px;
+}
+.myicon_transfer{
+          
+	color: #1d8fe1!important;
+}
+.wenzi_black{
+	display: block;
+	text-align: center;
+	font-size: 13px!important;
+	margin-top: 5px;
+}
+.myicon_repayment{
+ 
+	color:#f39826!important;
+}
+.myicon_balance{
+          
+	color:#f15a4a!important;
+}
+.myicon_naughtyticket{
+          
+	color: #f15a4a!important;
+}
+.myicon_logistics{
+ 
+	color: #f39826!important;
+}
+.myicon_life{
+ 
+	color:#1d8fe1!important;
+}
+.myicon_credit{
+ 
+	color: #3ab29a!important;
+}
+.myicon_planeticket{
+ 
+	color: #1d8fe1!important;
+}
+.myicon_Invitingmoney{
+ 
+	color: #1d8fe1!important;
+}
+.myicon_taxi{
+          
+	color: #1d8fe1!important;
+}
+.myicon_tmall{
+	color: #f15a4a!important;
+}
+.myicon_phone{
+	color:#f39826!important;
+}
+.list_style{
+	margin-top: 20px;
+}
+.dot_style{
+	position: absolute;
+	right: 40px;
+	top: 20px;
+}
+.loop_pic{
+	margin-top: 20px;
+}
+.pay_style{
+	margin-top: 20px;
+	background-color:white;
+	border-bottom: 1px solid  #eee;
+}
+.pay_style div{
+	padding-left: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.discountpay_style{
+	margin-top: 20px;
+}
+.table_cell_style{
+	padding: 5px 0px!important;
+}
+.right_border{
+	border-right: 1px solid #eee;
+}
